@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod go+x /tmp/h
+chmod go+x ./
